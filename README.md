@@ -2,14 +2,14 @@
 
 This selenium script allows to automatically submit an invoice to Portugal government website.
 
-###To install:
+### To install:
 ```
 python3 -m venv ./venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-###To use:
+### To use:
 Copy `.info.template.py` in `info.py` and update with your credentials.
 ```
 source venv/bin/activate
