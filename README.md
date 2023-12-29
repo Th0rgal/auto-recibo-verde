@@ -1,6 +1,7 @@
 # Automatic invoices for Portugal
 
 This selenium script allows to automatically submit an invoice to Portugal government website.
+You can consult the invoices you submited [here](https://irs.portaldasfinancas.gov.pt/recibos/portal/consultar).
 
 ### To install:
 ```
